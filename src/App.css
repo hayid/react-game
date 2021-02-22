@@ -1,0 +1,9 @@
+.memory-game {
+  background-color: #27a542;
+  width: 820px;
+  height: 790px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  perspective: 1000px;
+}
