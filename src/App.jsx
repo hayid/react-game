@@ -4,8 +4,60 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className='app-wrapper'>
-      <h1>Test</h1>
+    <div className='memory-game'>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
+      <div className='memory-card'>
+        <img className='front-face' src='img/cards/clubs_2.png' alt='club' />
+        <img className='back-face' src='img/logo.png' alt='JS Badge' />
+      </div>
     </div>
   );
 };
