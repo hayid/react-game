@@ -1,5 +1,7 @@
 import React from 'react';
+
 import Cards from './Cards/cards';
+
 import './App.css';
 
 const App = () => {
