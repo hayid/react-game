@@ -6,7 +6,7 @@ import './cards.css';
 
 const Cards = () => {
   const arr = generateArrayRandomCard(0, 51, 12);
-  // стой, на этом всё, учли map и хук useState!  хорошо давай спасибо!спасибо!спасибо!спасибо!спасибо!спасибо!
+
   const [hayko, setHayko] = useState();
 
   const cards = arr.map(item => {
